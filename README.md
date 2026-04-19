@@ -4,7 +4,8 @@ This repository contains the implementation and empirical analysis of Self-Super
 
 ## 👥 Team Members
 * **Borra Bhavitha G**
-* **Hasini Lekhya Pillarikuppam**
+* **Hasini
+*  **Lekhya Pillarikuppam**
 * **M Lasya Priya**
 * **Patcha Jyothika**
 
